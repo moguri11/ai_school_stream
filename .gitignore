@@ -1,0 +1,4 @@
+.env
+data/
+taxenv/
+01_tax_exam copy.ipynb
